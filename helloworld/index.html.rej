@@ -1,0 +1,11 @@
+diff a/helloworld/index.html b/helloworld/index.html	(rejected hunks)
+@@ -5,7 +5,6 @@
+     <title></title>
+ </head>
+ <body>
+-    Hello another world Sukie!! 
+-    Happy Day.
++    Hello another world 
+ </body>
+ </html>
+\ No newline at end of file
